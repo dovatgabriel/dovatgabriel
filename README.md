@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Gabriel
 
-<!--
-**dovatgabriel/dovatgabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Swiss developer, passionate about code, maths and space. 🚀
 
-Here are some ideas to get you started:
+## My projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚀 Swispace (https://swispace.com)
+- ⚽️ Optifit (https://start.optifit.app)
+- 🧑‍💻 socraft (https://socraft.ch)
+
+## Social networks
+
+<a href="" target="_blank"><img height="30px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" /></a>
+<a href="https://www.instagram.com/gabdovat/" target="_blank"><img height="30px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" /></a>
