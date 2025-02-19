@@ -3,6 +3,7 @@ I am a Swiss developer, passionate about code, maths and space
 
 ## Activity 🛠️
 <a href="https://optifit.app">Optifit</a> : Developing sports tournament management SaaS
+<br />
 <a href="https://socraft.ch">socraft</a>: Developing software solutions and enhancing the digital landscape.
 <br />
 <a href="https://swispace.com">Swispace</a>: Working on space-related projects and technologies.
